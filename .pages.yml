@@ -1,0 +1,34 @@
+media: media
+
+content:
+  - name: posts
+    label: Blog Posts
+    type: collection
+    path: blog-posts
+    filename: "{primary}.md"
+    format: yaml-frontmatter
+    fields:
+      - name: title
+        label: Blog Title
+        type: string
+        required: true
+
+      - name: date
+        label: Publish Date
+        type: date
+
+      - name: category
+        label: Category
+        type: string
+
+      - name: image
+        label: Featured Image
+        type: image
+
+      - name: description
+        label: Short Description
+        type: text
+
+      - name: body
+        label: Blog Content
+        type: rich-text
