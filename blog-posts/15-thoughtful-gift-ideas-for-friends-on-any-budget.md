@@ -2,7 +2,7 @@
 title: 15 Thoughtful Gift Ideas for Friends on Any Budget
 date: 2026-10-27
 category: Gift Ideas
-image: /media/ChatGPT Image Oct 28, 2026, 03_31_31 AM.png
+image: /media/Nooreva_Gift_Ideas_Featured_Image.png
 description: Looking for a meaningful gift without spending too much? Explore 15
   thoughtful and affordable gift ideas for friends, from personalised keepsakes
   to cosy essentials and creative surprises.
